@@ -30,3 +30,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mazz16-wave&theme=radical)
 
+![snake gif](https://github.com/mazz16-wave/mazz16-wave/blob/output/github-contribution-grid-snake.svg)
