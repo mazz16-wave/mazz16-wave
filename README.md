@@ -1,33 +1,97 @@
 # Hey, I'm Mahasweta 👋
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=AI+ML+Explorer;Web3+Builder;Cybersecurity+Learner;Full+Stack+Developer&center=true&width=550&height=55&color=FF69B4&vCenter=true&size=26"> </p> <p align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280"/> </p>
 
-💻 AI • Web3 • Cybersecurity  
-🌱 Exploring Soroban & Rust  
-🚀 Building cool stuff
+## 🌸 About Me
 
----
-
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mazz16-wave&show_icons=true&theme=radical)
+- ✨ Passionate about building aesthetic yet impactful tech experiences  
+- 💻 Exploring AI, Web3 & full-stack development  
+- 🌱 Learning in public through projects, hackathons & open-source  
+- 🧠 Interested in cybersecurity, scalable backend systems & smart contracts  
+- 🎀 Turning creativity into code one project at a time  
+- 🚀 Constantly experimenting with new technologies & developer tools  
 
 ---
 
-## Currently Learning
-- Soroban Smart Contracts
-- Rust
-- AI/ML
 
-<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg1MTU1NzgsIm5iZiI6MTc3ODUxNTI3OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTExVDE2MDExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5YjllMmY1ZWE1NGZkMzU1MjQ2ZWYwMmIxN2M4YTQyNzNhOWUzMDY1ODU4NmYzMDA5NWUxOGM1Y2MyYThiYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.CcTXEnW2eiHQ4bUqqz30QaBbXxSAx1EU38B-IUhYUIw" width="400"/>
+## 🛠️ Tech Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+ML+Explorer;Web3+Builder;Cybersecurity+Learner)](https://git.io/typing-svg)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mazz16-wave&theme=radical)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+
+</p>
+
+---
+
+<p align="center">
+
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="75"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="110"/>
+</p>
+```
+
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240"/>
+</p>
+
+- 🌌 Soroban Smart Contracts & Stellar Ecosystem  
+- ⚡ Advanced Django & scalable backend architecture  
+- 🤖 AI/ML workflows using NumPy, Pandas & Matplotlib  
+- 🔐 Cybersecurity fundamentals & secure application practices  
+- 🌐 Full-stack development with Node.js & MongoDB  
+- 🦀 Rust for blockchain & Web3 applications  
+- ☁️ Exploring deployment, APIs & cloud integrations  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazz16-wave&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazz16-wave&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazz16-wave&theme=redical&hide_border=true&area=true"/>
+</p>
+
+## 🐍 Feeding My GitHub Snake
 ![snake gif](https://github.com/mazz16-wave/mazz16-wave/blob/output/github-contribution-grid-snake.svg)
+
+## 🔥 GitHub Streak 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=mazz16-wave&theme=radical"/> </p> ---
+
+## 🎀 Fun Fact
+<p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/> </p> ✨ I love blending creativity with technology — from AI projects to aesthetic web experiences ✨
